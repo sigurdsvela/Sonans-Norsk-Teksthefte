@@ -3,11 +3,11 @@ import os
 import json
 
 def gloss_table(gloss):
-	table="\n ## Ordforklaringer \n"
-	table = " |\n"
-	table += "--|--\n"
+	table ="\n\n## Ordforklaringer \n\n"
+	table += "|  |  |\n"
+	table += "|--|--|\n"
 	for word, definition in gloss.items():
-		table += word + " | " + definition + "\n"
+		table += "| " + word + " | " + definition + " |\n"
 	return table
 
 def read_json(path):

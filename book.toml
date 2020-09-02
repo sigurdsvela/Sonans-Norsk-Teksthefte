@@ -2,12 +2,10 @@
 authors = ["Sigurd Berg Svela"]
 language = "no"
 multilingual = false
-src = "src"
+src = "build/src"
 title = "Sonans Tekshefte 2020"
 
 [build]
 create-missing = false
-
-[output.html]
 
 [output.epub]
