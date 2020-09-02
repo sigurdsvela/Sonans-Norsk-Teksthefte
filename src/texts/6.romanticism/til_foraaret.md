@@ -43,11 +43,3 @@ O Forår! den Gamle råber for mig, skjøndt han er hæs.
 Han rækker sine Arme mod Himlen, og Anemonerne,  
 dine blåøiede Børn, knæle og bede at du skal  
 redde mig – – mig, der elsker dig så ømt. 
-
-## Ordforklaringer
-
-|          |                                   |
-| -------- | --------------------------------- |
-| forår    | vår                               |
-| fyrrige  | livlig, lidfull                   |
-| patriark | eg. stamfar, gammel ærverdig mann |

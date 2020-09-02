@@ -104,27 +104,3 @@ n1{
 <n1></n1>At vi vor’ Tider mod Synden strider,  
 <n1></n1>Naar Tiden lider, hos dig omsider  
 <n1></n1>At blive!
-
-|              |                        |
-| ------------ | ---------------------- |
-| anstille seg | oppføre seg            |
-| forlise      | miste                  |
-| grommen Hval | den storslagne hvalen  |
-| Leyen        | skipsleia              |
-| Tanteyen     | makrellstørje, tunfisk |
-| forsvimler   | vakler                 |
-| Cimler       | cymbal, bekken         |
-| Bram         | berømmelse, prakt      |
-| tusin Sinde  | tusen ganger           |
-| vorden       | blitt                  |
-| møye         | strev                  |
-| Hald         | bakke                  |
-| Gromme       | grusomme               |
-| Gramme       | sinte                  |
-| ikkun        | bare                   |
-| Lyder        | lyster                 |
-| bader        | gagner                 |
-| blues        | skamme seg             |
-| Savn         | rykte, berømmelse      |
-| Geselle      | person, menneske       |
-| Vunder       | under                  |

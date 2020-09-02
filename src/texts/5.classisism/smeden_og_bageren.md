@@ -77,11 +77,3 @@ Da man ham førte væk.
 **Moral.**  
 Beredt til Døden altid vær!  
 Den kommer, naar du mindst den tænker nær. 
-
-## Ordforklaringer
-
-|           |                                   |
-| --------- | --------------------------------- |
-| honett    | anstendig, skikkelig              |
-| feltskjær | lege                              |
-| hisset    | til den aandre sida/det hinsidige |

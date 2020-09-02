@@ -17,30 +17,3 @@ Disse trekk er så langt fra å være abnorme, tvert imot skriver de seg fra men
 Denne vidunderlige fornemmelse kan man også treffe hos mennesker som har følt et øyeblikk ved nattetider i en dyp skog eller på et båthvelv. Der skrives akkurat i disse dager om en ny «sykdom»: kjærlighet til solen. Jeg tror også på dene nye «sykdom» – bokstavelig. Og jeg gjør det ikke minst fordi jeg selv har iakttatt og allerede for to år tilbake omtalt den samme tilstand i et brev til Erik Skram. Det var heldig at jeg den gang meddelte meg til en mann som ham; de fleste andre ville vel ha ledd meg ut; for der er en mengde mennesker som er så kloke. Men denne kjærlighet til solen er den samme navnløse anelse av blodsslektskap med allskapningen ...
 
 Etter hvert som tiden går, vil det sannsynligvis hos de finest innstilte mennesker oppstå flere og flere sjelefenomener av ualminnelig natur; man kan for så vidt ikke sette noen grense for disses vilkårlighet. Eller det oppstår ikke nye; man blir bare mer følsom til å oppdage dem. Men litteraturen, den har hovedsakelig hatt to slags mennesker: kloke og gale – alle sammen «typer». Er det da en person som har oppleveld noe sjelelig ekstraordinært, så sendes han enten til Gaustad eller til sykehuset. Men er det en mann som skyter en hest, så gjør han det av simpel ondskap. Og forfatteren gir ham «typisk» bøter og straff. Og kloke lesere klapper i hendene.
-
-## Ordforklaringer
-  |  
---|--
-ømtålig| skjør, som ikke tåler mye
-gemytt| temperament, psyke
-henrykkelse| glede
-forestående| som skal komme
-foreteelse| handling, noe man gjør
-høkerhjerne| kjøpmannshjerne, dvs. tørr og kjedelig
-Gaustad| psykiatrisk sykehus i Oslo
-upåaktet| som man ikke legger merke til
-fornemmelse| svak følelse
-selsom| merkelig
-trevle| rive, rekke opp
-ransakelse| undersøkelse
-stundom| av og til, innimellom
-åsyn| syn, noe man ser
-Hans Brecke| forfatter, venn av Bjørnson, døde ung
-abnorm| avvikende, sykelig unormal
-iaktta| se på, legge merke til
-meddele seg| henvende seg, fortelle
-allskapningen| verden, naturen
-vilkårlighet| tilfeldighet
-Heinrich Heine| tysk romantisk forfatter
-Ivan Turgenjev| russisk forfatter
-Erik Skram| dansk dikter, gift med Amalie Skram

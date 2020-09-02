@@ -108,16 +108,3 @@ n1{
 <n1></n1>jeg til herlighet oppstår  
 <n1></n1>når Gud ved basunens lyd  
 <n1></n1>kaller mig til evig fryd.
-
-## Ordforklaringer
-
-|                       |                                   |
-| --------------------- | --------------------------------- |
-| platt                 | flatt                             |
-| glasset               | timeglasset                       |
-| skarn                 | skitt, elendighet                 |
-| lossament             | losji                             |
-| ordsens tjenere       | prester                           |
-| alle kongers konge    | Gud/Jesus, som står over kongen   |
-| de som ere i hans råd | kongens undersåtter, dvs. oss     |
-| fjele                 | bordbiter                         |

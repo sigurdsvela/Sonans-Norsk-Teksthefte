@@ -93,18 +93,3 @@ Tak for Dødsens bitre Vee,
 Tak for din Opstandelse,
 Tak for Himlen du har inde,
 Der skal Jeg dig see og finde.
-
-
-## Ordforklaringer
-
-|            |                          |
-| ---------- | ------------------------ |
-| lov        | lovprisning, ros,        |
-| vran       | krok, hull, uasel bolig, |
-| møden møye | trøtthet, besver,        |
-| Væe        | smerte                   |
-
-*[lov]: lovprisning, ros
-*[vran]: krok, hull, uasel bolig
-*[møden møye]: trøtthet, besver
-*[Væe]: smerte"

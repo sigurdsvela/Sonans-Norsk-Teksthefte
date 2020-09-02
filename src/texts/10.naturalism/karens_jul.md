@@ -149,24 +149,3 @@ Hun gled stille ned på benken.
 &nbsp;&nbsp;&nbsp;&nbsp;Han gikk ut igjen, trakk døren til og gjorde kroken fast. Skyndte seg så på stasjonen for å melde tildragelsen.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Den første arbeidsdag etter julehelgen lot havnevesenet det gamle fergemannshus rive ned og transportere bort. Det skulle ikke stå der og være tilholdssted for alskens løsgjengere.
-
-## Ordforklaringer
-
-| | |
-|--|--|
-| lig | lei, kant |
-| alen | gammelt lengdemål (ca. 60 cm) |
-| guirlander | dekorasjonslenke |
-| å slå glass | sjøuttrykk; slå på skipsklokka  |for å markere at en halv time er gått
-| blottenes | bare |
-| lossement | husrom |
-| laser | filler |
-| gå og be | tigge |
-| kondisjon | stilling som hushjelp |
-| komme i uløkka | bli gravid utenfor ekteskap |
-| på Stiftelsen | Fødselsstiftelsen, en  |offentlig fødeklinikk 
-| Mangelsgården | institusjon for fattige i  Kristiania |
-| ta i lossji | gi husrom |
-| orlov | permisjon |
-| tildragelse | hendelse |
-| visket | tørket |

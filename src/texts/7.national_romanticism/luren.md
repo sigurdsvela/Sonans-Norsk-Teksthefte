@@ -34,16 +34,3 @@ Da kaldte jeg paa Guttorm, og imod min Forventning tilgav han ham strax. «Dig h
 
 
 Jeg vilde rejse; men Du kan let tænke, at jeg maatte oppebie Brylluppet. Igaar blev Parret viet, og strax derpaa døbtes Barnet Caroline efter mit Navn – ifølge Thords egen Vilje. Alle ere glade, og jeg – jeg syndige Menneske – staar her som en Engel mellem dem. Farvel, min Ven! Imorgen rejser jeg fra dette Fredens Tempel. Gud velsigne disse gode Mennesker!  
-
-
-# Ordforklaringer
-
-
-|                                                   |                                  |
-| ------------------------------------------------- | -------------------------------- |
-| Helvetia                                          | Sveits                           |
-| ensemblet                                         | helheten                         |
-| arkadisk                                          | landlig, idyllisk (jfr, Arcadia) |
-| kjempehaug                                        | gravhaug                         |
-| Pllilip av Spania, d' Aggasseau, Eginhard og Emma | kjente elskere fra historia      |
-
