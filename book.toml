@@ -7,3 +7,7 @@ title = "Sonans Tekshefte 2020"
 
 [build]
 create-missing = false
+
+[output.html]
+
+[output.epub]
