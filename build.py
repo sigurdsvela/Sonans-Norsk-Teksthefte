@@ -3,6 +3,7 @@ import os
 import json
 
 def gloss_table(gloss):
+	table="\n ## Ordforklaringer \n"
 	table = " |\n"
 	table += "--|--\n"
 	for word, definition in gloss.items():
