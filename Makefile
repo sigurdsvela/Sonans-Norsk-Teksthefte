@@ -1,5 +1,5 @@
 build:
-	python3 scripts/build.py
+	python3 build.py
 	mdbook build
 
 clean:
