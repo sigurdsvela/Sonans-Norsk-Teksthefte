@@ -62,5 +62,5 @@
 - [Dansk og svensk litteratur](texts/19.scandinavian_litterture/index.md)
   - [Natmaskinen](texts/19.scandinavian_litterture/natmaskinen.md)
   - [Havet](texts/19.scandinavian_litterture/Havet.md)
-  - [Aktenskapsfragan](texts/19.scandinavian_litterture/Aktenskapsfragan.md)
+  - [Aktenskapsfragan](texts/19.scandinavian_litterture/aktenskapsfragan.md)
   - [Pasticsolen](texts/19.scandinavian_litterture/Pasticsolen.md)
