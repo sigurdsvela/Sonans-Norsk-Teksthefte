@@ -4,3 +4,6 @@ language = "no"
 multilingual = false
 src = "src"
 title = "Sonans Tekshefte 2020"
+
+[build]
+create-missing = false

@@ -85,7 +85,3 @@ Den kommer, naar du mindst den tænker nær.
 | honett    | anstendig, skikkelig              |
 | feltskjær | lege                              |
 | hisset    | til den aandre sida/det hinsidige |
-
-*[honett]: anstendig, skikkelig
-*[feltskjær]: lege
-*[hisset]: til den aandre sida/det hinsidige

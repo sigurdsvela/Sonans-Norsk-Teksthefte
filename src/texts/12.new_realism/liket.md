@@ -32,6 +32,3 @@ Ei vakker 17. mai-natt hende det brått noko som skok fliren bort frå andleta e
 Gravferdsdagen var eg still og bortgøymd som dei andre, det høyrer til. Dei døde skal ha fred, berre dei levande kan drepast. – Etterpå gjekk eg oppi lia med papir i lomma. Eg skreiv, skreiv om den døde og krona han med gravferdsdygder. Eg skreiv om dei som drap, brennande ord og beiske ord, brennande og beiske som min eigen ungdom. Det var svepeslag over det tunge, kalde bygdedyret. Orda mine kom på prent i bladet – og brått skein det kaldt av flir kring meg. Det vart ein krig for livet. Tankane mine var som knyttenevar år etter år. Ingen som ikkje har røynt det til inste grunn, veit kva makt det flirande bygdedyret eig. Ofte var eg nær ved å stupe, men da måtte eg alltid tenkje på Arne, det sprengde livet, det sprengde Liket. –
 
 Liket – det er ikkje berre Arne lenger no når eg skriv desse orda. Det er noko ulykkeleg, stilt – ei bunden kraft. Det er alle desse redde, innestengde menneske, som knuser kvarandre og jagar kvarandre inn att i ei innstengd verd. Liket – det er alle som dagleg døyr og drep i ei verd der lykka er nær og berrsynt og livsens evangelium kan formast med to ord: Ver uredd.
-
-
-

@@ -47,8 +47,3 @@ Jeg vilde rejse; men Du kan let tænke, at jeg maatte oppebie Brylluppet. Igaar 
 | kjempehaug                                        | gravhaug                         |
 | Pllilip av Spania, d' Aggasseau, Eginhard og Emma | kjente elskere fra historia      |
 
-*[Helvetia]: Sveits
-*[ensemblet]: helheten
-*[arkadisk]: landlig, idyllisk (jfr, Arcadia)
-*[kjempehaug]: gravhaug
-*[Pllilip av Spania, d' Aggasseau, Eginhard og Emma]: kjente elskere fra historia

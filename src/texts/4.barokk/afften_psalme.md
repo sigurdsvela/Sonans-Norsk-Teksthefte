@@ -121,13 +121,3 @@ n1{
 | alle kongers konge    | Gud/Jesus, som står over kongen   |
 | de som ere i hans råd | kongens undersåtter, dvs. oss     |
 | fjele                 | bordbiter                         |
-
-
-*[platt]: flatt
-*[glasset]: timeglasset
-*[skarn]: skitt, elendighet
-*[lossament]: losji
-*[ordsens tjenere]: prester
-*[alle kongers konge]: Gud/Jesus, som står over kongen
-*[de som ere i hans råd]: kongens undersåtter,dvs. oss
-*[fjele]: bordbiter

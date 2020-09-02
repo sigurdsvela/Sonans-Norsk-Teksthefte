@@ -105,18 +105,3 @@ De havde Champagne, men rørte den ei.
 |Ostrolcnka | I slaget ved Os tro lenka knuste russerne den polske sel vstendighetskampe! |  
 |Lise | trøst|  
 |Pral | skryt |  
-
-
-*[Erudidanter]: studenter  
-*[Povrcs hontcux]: stolte fåttige.  
-*[Gny]: bråk  
-*[Den stumme fra Portici]: Et operastylcke fra Napoli  
-*[Nourrit]: Kjent operasanger pA 1800—tallet  
-*[Brave]: modige  
-*[Warschau]: Warszawa  
-*[Fama]: Ryktets gudinne i gresk mytologi  
-*[Sain]: simon]: Fransk sosialistisk tenker  
-*[Ostrolcnka]: I slaget ved Os tro lenka knuste russerne den polske sel vstendighetskampe!  
-*[Lise]: trøst  
-*[Pral]: skryt   
-

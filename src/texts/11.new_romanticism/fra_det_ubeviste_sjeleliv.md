@@ -44,27 +44,3 @@ vilkårlighet| tilfeldighet
 Heinrich Heine| tysk romantisk forfatter
 Ivan Turgenjev| russisk forfatter
 Erik Skram| dansk dikter, gift med Amalie Skram
-
-*[ømtålig]: skjør, som ikke tåler mye
-*[gemytt]: temperament, psyke
-*[henrykkelse]: glede
-*[forestående]: som skal komme
-*[foreteelse]: handling, noe man gjør
-*[høkerhjerne]: kjøpmannshjerne, dvs. tørr og kjedelig
-*[Gaustad]: psykiatrisk sykehus i Oslo
-*[upåaktet]: som man ikke legger merke til
-*[fornemmelse]: svak følelse
-*[selsom]: merkelig
-*[trevle]: rive, rekke opp
-*[ransakelse]: undersøkelse
-*[stundom]: av og til, innimellom
-*[åsyn]: syn, noe man ser
-*[Hans Brecke]: forfatter, venn av Bjørnson, døde ung
-*[abnorm]: avvikende, sykelig unormal
-*[iaktta]: se på, legge merke til
-*[meddele seg]: henvende seg, fortelle
-*[allskapningen]: verden, naturen
-*[vilkårlighet]: tilfeldighet
-*[Heinrich Heine]: tysk romantisk forfatter
-*[Ivan Turgenjev]: russisk forfatter
-*[Erik Skram]: dansk dikter, gift med Amalie Skram

@@ -170,22 +170,3 @@ Hun gled stille ned på benken.
 | orlov | permisjon |
 | tildragelse | hendelse |
 | visket | tørket |
-
-
-*[lig]: lei, kant
-*[alen]: gammelt lengdemål (ca. 60 cm)
-*[guirlander]: dekorasjonslenke
-*[å slå glass]: sjøuttrykk; slå på skipsklokka for å markere at en halv time er gått
-*[blottenes]: bare
-*[lossement]: husrom
-*[laser]: filler
-*[gå og be]: tigge
-*[kondisjon]: stilling som hushjelp
-*[komme i uløkka]: bli gravid utenfor ekteskap
-*[på Stiftelsen]: Fødselsstiftelsen, en offentlig fødeklinikk 
-*[Mangelsgården]: institusjon for fattige i Kristiania
-*[ta i lossji]: gi husrom
-*[orlov]: permisjon
-*[tildragelse]: hendelse
-*[visket]: tørket
-

@@ -128,25 +128,3 @@ n1{
 | Savn         | rykte, berømmelse      |
 | Geselle      | person, menneske       |
 | Vunder       | under                  |
-
-*[anstille seg]: oppføre seg
-*[forlise]: miste
-*[grommen Hval]: den storslagne hvalen
-*[Leyen]: skipsleia
-*[Tanteyen]: makrellstørje, 
-*[forsvimler]: vakler
-*[Cimler]: cymbal, bekken
-*[Bram]: berømmelse, prakt
-*[tusin Sinde]: tusen ganger
-*[vorden]: blitt
-*[møye]: strev
-*[Hald]: bakke
-*[Gromme]: grusomme
-*[Gramme]: sinte
-*[ikkun]: bare
-*[Lyder]: lyster
-*[bader]: gagner
-*[blues]: skamme seg
-*[Savn]: rykte, berømmelse
-*[Geselle]: person, menneske
-*[Vunder]: under
