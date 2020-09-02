@@ -1,0 +1,83 @@
+author: Sigurd Berg Svela	
+title: Teksthefte Sonans
+lang: no
+
+## Output formats
+
+# Uncomment and fill to generate files
+output.html: build/crowbook/teksthefte.html
+output.epub: build/crowbook/teksthefte.epub
+output.pdf: build/crowbook/teksthefte.pdf
+
+# Or uncomment the following to generate PDF, HTML and EPUB files based on this file's name
+# output: [pdf, epub, html]
+
+# Uncomment and fill to set cover image (for EPUB)
+# cover: some_cover.png
+
+## List of chapters
++ build/src/texts/1.norse/haavamaal.md
++ build/src/texts/1.norse/index.md
++ build/src/texts/10.naturalism/fra_naturalisme.md
++ build/src/texts/10.naturalism/index.md
++ build/src/texts/10.naturalism/karens_jul.md
++ build/src/texts/11.new_romanticism/fra_det_ubeviste_sjeleliv.md
++ build/src/texts/11.new_romanticism/index.md
++ build/src/texts/11.new_romanticism/jeg_ser.md
++ build/src/texts/11.new_romanticism/navnlos.md
++ build/src/texts/12.new_realism/index.md
++ build/src/texts/12.new_realism/kunsten_aa_myrde.md
++ build/src/texts/12.new_realism/liket.md
++ build/src/texts/13.traditional_lyric/index.md
++ build/src/texts/13.traditional_lyric/nykleholmen.md
++ build/src/texts/13.traditional_lyric/revolusjonens_rost.md
++ build/src/texts/13.traditional_lyric/tungetalet_fra_parnasset.md
++ build/src/texts/14.modernism/index.md
++ build/src/texts/14.modernism/louis_armstrong.md
++ build/src/texts/14.modernism/men_vi_lever.md
++ build/src/texts/14.modernism/naken.md
++ build/src/texts/14.modernism/som_i_en_kinosal.md
++ build/src/texts/14.modernism/vi_vil_ikke_gi_kaffekjelen_vinger.md
++ build/src/texts/15.postmodernism/hvis_en_reisende_en_vinternatt.md
++ build/src/texts/15.postmodernism/index.md
++ build/src/texts/16.currentday_realism/index.md
++ build/src/texts/16.currentday_realism/stockholm.md
++ build/src/texts/17.currentday_lyric/Nils_Øivind_Haagensen.md
++ build/src/texts/17.currentday_lyric/index.md
++ build/src/texts/18.sami_literature/index.md
++ build/src/texts/18.sami_literature/saa_lenge.md
++ build/src/texts/18.sami_literature/vindens_veier.md
++ build/src/texts/19.scandinavian_litterture/Havet.md
++ build/src/texts/19.scandinavian_litterture/Pasticsolen.md
++ build/src/texts/19.scandinavian_litterture/aktenskapsfragan.md
++ build/src/texts/19.scandinavian_litterture/index.md
++ build/src/texts/19.scandinavian_litterture/natmaskinen.md
++ build/src/texts/2.folkedikning/draumkvedet.md
++ build/src/texts/2.folkedikning/index.md
++ build/src/texts/2.folkedikning/olav_og_kari.md
++ build/src/texts/2.folkedikning/smorbokk.md
++ build/src/texts/3.renessans/Om_Mennesket_Si_Verdigheit.md
++ build/src/texts/3.renessans/index.md
++ build/src/texts/4.barokk/Som_dend_gyldne_sool_frembryder.md
++ build/src/texts/4.barokk/Sorrig_og_gleede_de_vandre_til_hobe.md
++ build/src/texts/4.barokk/afften_psalme.md
++ build/src/texts/4.barokk/herre_gud_ditt_dyre_navn_og_aere.md
++ build/src/texts/4.barokk/index.md
++ build/src/texts/5.classisism/Gravskrifter_og_epigram.md
++ build/src/texts/5.classisism/Norges_Skaal.md
++ build/src/texts/5.classisism/index.md
++ build/src/texts/5.classisism/smeden_og_bageren.md
++ build/src/texts/6.romanticism/Digtets_Aand.md
++ build/src/texts/6.romanticism/Pigen_på_anatomikammeret.md
++ build/src/texts/6.romanticism/Republikanerne.md
++ build/src/texts/6.romanticism/index.md
++ build/src/texts/6.romanticism/til_foraaret.md
++ build/src/texts/7.national_romanticism/index.md
++ build/src/texts/7.national_romanticism/luren.md
++ build/src/texts/8.poetic_realism/faderen.md
++ build/src/texts/8.poetic_realism/gamle_norig.md
++ build/src/texts/8.poetic_realism/index.md
++ build/src/texts/8.poetic_realism/mot_stromment.md
++ build/src/texts/8.poetic_realism/ved_rondane.md
++ build/src/texts/9.realism/ballstemning.md
++ build/src/texts/9.realism/index.md

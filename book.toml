@@ -8,4 +8,7 @@ title = "Sonans Tekshefte 2020"
 [build]
 create-missing = false
 
-[output.epub]
+[output.latex]
+latex    = true  # default = true
+pdf      = true  # default = false
+markdown = true  # default = false
