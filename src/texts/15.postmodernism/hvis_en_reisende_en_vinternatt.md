@@ -1,12 +1,12 @@
 # Hvis en reisende en vinternatt (utdrag)
 > Italo Calvino
-
+    
 Du skal i gang med å lese Italo Calvinos nye roman «Hvis en reisende en vinternatt». Slapp av. Konsentrer deg. Skyv alle andre tanker fra deg. La verd en omkring deg blekne og bli utydelig. D et er best du lu kker døren for i værelset ved siden av står alltid fjernsynsapparatet på. Si straks fra til de andre: ei, jeg vil ikke se fjernsyn. Hev stemmen, eller bører de deg ikke: «Jeg leser! Jeg vil ikke bli forstyrret!» De har kanskje ikke hørt deg i alt bråket, så si det høyere. rop: «Jeg skal begynne lese Italo Calvinos nye roman!» Eller om du ikke vil si det, så la være. Vi får håpe de lar deg være i fred.
-
+    
 Finn den behageligste lesestillingen. Sett deg, len deg tilbake, krøll deg sammen, legg deg. Legg deg på ryggen, på siden, på magen. i lenestolen, på sofaen, i gyngestolen, i liggestolen, på puffen. I hengekøyen; hvis du har en hengekøye, da. På sengen natur ligvis, eller i sengen. Du kan også stå på hodet, i yogastilling. Med boken pp ned. Det sier seg selv.
-
+    
 Man klarer naturligvis aldri å finne den ideelle lesestilling. En gang i tiden leste man stående ved en lesepult. Man var vant til å stå. Man hvilte seg på den måten når man var trett av å ri. Det har aldri falt noen inn å lese mens man sitter på hesteryggen, men nå forekommer det deg at det måtte være en god ide å lese mens man sitter i salen. Med boken hvilende på hestens man, kanskje hengt opp i hestens ører med en spesiell innretning. Det måtte være meget behagelig å lese med føttene i stigbøylene, for det ha bena høyt, er første betingelse for å kunne nyte lesingen.
-
+    
 Vel, hva tenker du på? Strekk ut bena, legge gjerne føttene på en pute, på to puter, på armlenen eller på sofaen, på ørelappene på ørelappstolen, på salongb ordet, på skrivebordet, på pianoet, på globusen. Ta av deg skoene først. Hvis det er så at du vil ha bena høyt, da. Hvis ikke, så ta dem på deg igjen. Bli nå ikke stående der med skoene i den ene hånden og boken i den andre.
-
+    
 Still inn lyset slik at du ikke blir trett i øynene. Gjør det nå, for straks du har fordypet deg i lesningen, er du ikke til å rikke. Sørg for at det ikke faller skygge på boksiden, en ansamling svarte bokstaver på grå bakgrunn, ensartede som en flokk rotter. Men pass på at ikke faller et alt for sterkt lys på siden, og at det ikke kastes tilbake fra det brutalt hvite papiret og gnager på bokstavenes skygger som i en mild agstime i Syden. Prøv nå å tenke deg alt som kan hindre deg i å avbryte lesningen. Sigarettene innenfor r ekkevidde, hvis du røker,  altså. Askebegeret. Hva mer? Må du tisse? Vel, det vet du vel best selv.

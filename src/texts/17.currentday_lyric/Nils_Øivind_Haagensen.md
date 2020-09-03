@@ -1,14 +1,8 @@
-<style>
-tab {
-	display: inline-block;
-	padding-left: 30px;
-}
-</style>
 
 # Nils-Øyvind Haagesen  
 > Dikt uten tittel    
 > *God Morgen og God natt*, 2013  
-  
+    
 Kjære du    
 der kom jeg på noe    
 sjokket jeg opplevde    
@@ -29,9 +23,9 @@ hvorfor bære det som bærer seg selv?
 hvordan ta vare på ham som skulle ta vare på meg?    
 frykt ikke mer    
 evig er han med    
-  
+    
 ## *Deg være ære*, Salmeteksten  
-  
+
 Deg være ære,  
 Herre over dødens makt!  
 Evig skal døden være  
@@ -40,13 +34,13 @@ Lyset fyller haven,
 se, en engel kom,  
 åpnet den stengte graven,  
 Jesu grav er tom!  
-  
+    
 <tab></tab>*Refr:*  
 Deg være ære,  
 Herre over dødens makt!  
 Evig skal døden være  
 Kristus underlagt.  
-  
+    
 Se, Herren lever!  
 Salig morgenstund!  
 Mørkets makter bever.  
@@ -55,7 +49,7 @@ Jubelropet runger:
 Frelseren er her!  
 Pris ham, alle tunger,  
 Kristus Herre er!  
-  
+    
 Frykt ikke mere!  
 Evig er han med.  
 Troens øye ser det:  

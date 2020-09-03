@@ -17,7 +17,7 @@ Slaaer Smeden Fienden paa Planeten,
 Saa stærkt var dette Slag,  
 At han saae ikke Dag,  
 Og har ei siden seet’en.  
- 
+    
 Strax i Arrest blev Smeden sat.  
 En Feldskiær faaer den Døde fat,  
 Og om en voldsom Død Attest hensender.  
@@ -29,7 +29,7 @@ Før Dom skal gaae i Sagen,
 Fremtriner fire Borgere  
 For Dommeren; den mest veltalende  
 Ham saa tiltalede:  
- 
+    
 «Velviseste!  
 Vi veed, paa Byens Vel De altid see;  
 Men Byens Vel beroer derpaa,  
@@ -49,7 +49,7 @@ Thi i saa vigtigt Fald man maae sig vel betænke,
 Gid vores Smed jeg Livet kunde skienke!  
 Farvel godt Folk! jeg giør alt, hvad jeg kan.» –  
 «Farvel velvise Mand!» –  
- 
+    
 Han bladrer i sin Lov omhyggelig;  
 Men finder intet der for sig,  
 Hvorved forbuden er, for Smed at rette Bager;  
@@ -64,16 +64,16 @@ Men da i vores Bye en Smed vi ikkun have,
 Jeg maatte være reent af Lave,  
 Ifald jeg vilde see ham død.  
 Men her er to, som bager Brød.»  
- 
+    
 «Thi kiender jeg for Ret:  
 Den ældste Bager skal undgielde det,  
 Og for det skedte Mord med Liv for Liv bør bøde,  
 Til velfortiente Straf for sig  
 Og ligesindede til Afskye og til Skræk.»  
- 
+    
 Den Bager græd Guds jammerlig,  
 Da man ham førte væk.  
- 
+    
 **Moral.**  
 Beredt til Døden altid vær!  
 Den kommer, naar du mindst den tænker nær. 

@@ -1,6 +1,5 @@
 # Norsk Teksthefte
 
-
 - [Norrønt](texts/1.norse/index.md)
   - [Håvamål](texts/1.norse/haavamaal.md)
 - [Folketidning](texts/2.folkedikning/index.md)

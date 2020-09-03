@@ -34,7 +34,5 @@ for period in periods:
 		namepath = "{}/texts/{}/".format(tmp, period) + name
 		if (extension == "md"):
 			if (os.path.exists(namepath + ".glossary.json")):
-				with open(namepath + ".md", "a") as myfile:
-					print("Adding glossary to " + namepath)
-					print(gloss_table(read_json(namepath + ".glossary.json")))
+				with open(namepath + ".md", "a", encoding='utf-8') as myfile:
 					myfile.write(gloss_table(read_json(namepath + ".glossary.json")))

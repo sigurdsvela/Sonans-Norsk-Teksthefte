@@ -1,7 +1,7 @@
 .DS_Store
 book
 build
-
+.push.settings.jsonc
 #Added by cargo
 
 /target

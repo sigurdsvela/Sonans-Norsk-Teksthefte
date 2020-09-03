@@ -1,16 +1,10 @@
 FROM ubuntu:18.04
 WORKDIR /root
-COPY . /book
 RUN apt update
-RUN apt install build-essential curl -y
-RUN apt install file -y
-RUN apt install asciinema -y
-RUN apt install unzip -y
-RUN apt install vim -y
-RUN apt install nano -y
-RUN apt install git -y
-RUN apt install libssl-dev -y
-RUN apt install zlib1g-dev -y
+RUN apt install build-essential cmake curl file\
+    asciinema unzip git libssl-dev\
+    zlib1g-dev autoconf automake autotools-dev\
+    libtool xutils-dev ca-certificates file -y
 
 ENV SSL_VERSION=1.0.2s
 
@@ -23,11 +17,21 @@ ENV OPENSSL_LIB_DIR=/usr/local/ssl/lib \
     OPENSSL_INCLUDE_DIR=/usr/local/ssl/include \
     OPENSSL_STATIC=1
 
-RUN curl -sSf sh.rustup.rs | sh -s -- -y
-RUN echo "export PATH=~/.cargo/bin:$PATH" >> ~/.bashrc
-RUN echo "export PS1='\u:\w$ '" >> ~/.bashrcRUN useradd -ms /bin/bash rust
+RUN curl https://sh.rustup.rs -sSf | \
+    sh -s -- --default-toolchain beta -y
 
-# RUN cargo install mdbook
-# RUN cargo install mdbook-latex
+RUN apt install libfreetype6-dev xclip nano vim -y
 
-# RUN cd book; make build; cd -
+ENV PATH=/root/.cargo/bin:$PATH
+
+# Install Tectonic
+RUN apt install libfontconfig1-dev libgraphite2-dev libharfbuzz-dev libicu-dev zlib1g-dev -y
+RUN cargo install tectonic
+
+RUN cargo install mdbook mdbook-latex
+
+COPY . /book
+
+
+# Infinite Halt
+CMD tail -f /dev/null

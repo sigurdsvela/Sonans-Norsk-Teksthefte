@@ -1,76 +1,76 @@
 # Digtets Aans  
 > Av Johan Sebastian Welhaven (1844)  
-
+    
 Hvad ei med Ord kan nævnes  
 i det rigeste Sprog,  
 det Uudsigelige,  
 skal Digtet røbe dog.  
-
+    
 Af Sprogets strenge Bygning,  
 af Tankeformers Baand  
 stiger en frigjort Tanke,  
 og den er Digtets Aand.  
-
+    
 Den boede i Sjælen  
 før Strophens Liv blev til,  
 og Sprogets Malm er blevet  
 flydende ved dens Ild.  
-
+    
 Den gjennemtrænger Ordet  
 lig Duft, der stiger op  
 af Rosentræets Indre  
 i den aabnede Knop.  
-
+    
 Og skjønt den ei kan præges  
 i Digtets Tankerad,  
 den er dog der tilstede  
 som Duft i Rosenblad.  
-
+    
 Glem da den gamle Klage,  
 at ingen Kunst formaaer  
 at male Tankefunken,  
 hvoraf et Digt fremstaaer.  
-
+    
 Thi hvis den kunde bindes  
 og sløres af paa Prent,  
 da var i denne Skranke  
 dens Liv og Virken endt.  
-
+    
 Den vil med Aandens Frihed  
 svæve paa Ordets Klang;  
 den har i Digtets Rhythmer  
 en stakket Gjennemgang,  
-
+    
 En Gjennemgang til Livet  
 i Læserens Bryst;  
 der vil den vaagne atter  
 i Sorrig eller Lyst,  
-
+    
 Og næres og bevæges  
 og blive lig den Ild,  
 der laae i Digtersjælen,  
 før Strophens Liv blev til.  
-
+    
 Kun da bevarer Digtet  
 sin rette Tryllemagt,  
 det Uudsigelige  
 er da i Ordet lagt.  
-
+    
 Betragt den stille Lykke,  
 der gjør en Digter varm,  
 mens Aanden i hans Sange  
 svæver fra Barm til Barm.  
-
+    
 Lad kun hans Rygte hæves  
 mod Sky af Døgnets Vind,  
 det er dog ei den sande  
 Kvægelse for hans Sind.  
-
+    
 Men naar hans Tankebilled,  
 med eller uden Ry,  
 finder et lutret Indre,  
 og fødes der paany –  
-
+    
 O, bring ham da et Budskab  
 om dette Aandens Bliv;  
 thi dermed er der lovet  
